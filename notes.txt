@@ -1,0 +1,1 @@
+jumbotron : This will keep the contents seperately.
